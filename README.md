@@ -9,6 +9,8 @@
 - ![Java Script](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E)
 - ![Html5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
 - ![Css](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white&color=%23663399)
+- ![Axios](https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white&color=%235A29E4)
+
 
 
 ## Repository
