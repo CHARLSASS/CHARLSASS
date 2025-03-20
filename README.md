@@ -1,4 +1,4 @@
-**Hi there! 👋 I'm [Charles Marvin]**
+**Hi there! 👋 I'm **Charles Marvin**
 
 **IM NOT UI/UX DESIGNER**
 
